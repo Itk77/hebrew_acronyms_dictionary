@@ -1,0 +1,1 @@
+# hebrew_acronyms_dictionary
